@@ -1,11 +1,11 @@
 {
-  "homepage": "https://vijayalakshmi230.github.io/svaeethawebsite/",
+  "homepage": "https://vijayalakshmi230.github.io/SaveethaWebsite/",
   "name": "saveetha-college",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "perdeploy": "npm run bulid",
+    "predeploy": "npm run bulid",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
