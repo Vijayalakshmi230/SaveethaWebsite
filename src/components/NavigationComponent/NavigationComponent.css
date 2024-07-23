@@ -12,7 +12,7 @@ body{
 }
 .navbar{
     background-color: rgb(93, 93, 93);
-    width:1460px;
+    width:1441px;
     height: 80px;
     display: flex;
     
@@ -21,7 +21,7 @@ body{
 }
 .footer{
     background-color: rgb(93, 93, 93);
-    width:1440px;
+    width:1415px;
     height: 60px;
     display: flex;
     bottom: 0; 
